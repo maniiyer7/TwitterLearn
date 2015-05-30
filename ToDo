@@ -1,0 +1,7 @@
+(0) This version - Topic Identification
+(1) Named Entity Recognition
+(2) Gender detection
+(3) Wordcloud
+(4) Twitter Influence Index
+(5) Context Expansion using Bing Search
+(6) Language detection (currently, all tweets are assumed to be in English).</p>
